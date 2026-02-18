@@ -32,8 +32,8 @@ const Contact = () => {
   const contactInfo = [
     {
       title: "Email",
-      value: "andika@example.com",
-      href: "mailto:andika@example.com",
+      value: "andikapp1998@gmail.com",
+      href: "mailto:andikapp1998@gmail.com",
       icon: (
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <rect x="2" y="4" width="20" height="16" rx="2" />
@@ -53,7 +53,7 @@ const Contact = () => {
     },
     {
       title: "Location",
-      value: "Jakarta, Indonesia",
+      value: "Gresik, East Java, Indonesia",
       href: "#",
       icon: (
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
